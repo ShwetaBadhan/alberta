@@ -1,0 +1,124 @@
+<!-- team-area -->
+      <div class="team-area py-120">
+        <div class="container">
+          <div class="row">
+            <div class="col-lg-7 mx-auto">
+              <div class="site-heading text-center">
+                <span class="site-title-tagline wow fadeInDown"
+                  ><i class="far fa-air-conditioner"></i> Our Team</span
+                >
+                <h3 class="site-title ani-text-1">
+                  Our Experienced Team Ensuring Quality Results
+                </h3>
+              </div>
+            </div>
+          </div>
+          <div class="row g-4 g-lg-5">
+            <div class="col-md-6 col-lg-3">
+              <div class="team-item wow fadeInUp" data-wow-delay=".1s">
+                <div class="team-img">
+                  <div class="ani-img">
+                    <img src="assets/img/team/01.jpg" alt="thumb" />
+                  </div>
+                  <div class="team-social-wrap">
+                    <div class="team-social-btn">
+                      <button type="button">
+                        <i class="far fa-share-alt"></i>
+                      </button>
+                    </div>
+                    <div class="team-social">
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      <a href="#"><i class="fab fa-x-twitter"></i></a>
+                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4><a href="driver-single.html">Rodrigues Christy</a></h4>
+                  <span>Senior Technician</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <div class="team-item wow fadeInUp" data-wow-delay=".2s">
+                <div class="team-img">
+                  <div class="ani-img">
+                    <img src="assets/img/team/02.jpg" alt="thumb" />
+                  </div>
+                  <div class="team-social-wrap">
+                    <div class="team-social-btn">
+                      <button type="button">
+                        <i class="far fa-share-alt"></i>
+                      </button>
+                    </div>
+                    <div class="team-social">
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      <a href="#"><i class="fab fa-x-twitter"></i></a>
+                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4><a href="driver-single.html">Matthew Hong</a></h4>
+                  <span>Senior Technician</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <div class="team-item wow fadeInUp" data-wow-delay=".3s">
+                <div class="team-img">
+                  <div class="ani-img">
+                    <img src="assets/img/team/03.jpg" alt="thumb" />
+                  </div>
+                  <div class="team-social-wrap">
+                    <div class="team-social-btn">
+                      <button type="button">
+                        <i class="far fa-share-alt"></i>
+                      </button>
+                    </div>
+                    <div class="team-social">
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      <a href="#"><i class="fab fa-x-twitter"></i></a>
+                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4><a href="driver-single.html">Anita Bentley</a></h4>
+                  <span>CEO & Founder</span>
+                </div>
+              </div>
+            </div>
+            <div class="col-md-6 col-lg-3">
+              <div class="team-item wow fadeInUp" data-wow-delay=".4s">
+                <div class="team-img">
+                  <div class="ani-img">
+                    <img src="assets/img/team/04.jpg" alt="thumb" />
+                  </div>
+                  <div class="team-social-wrap">
+                    <div class="team-social-btn">
+                      <button type="button">
+                        <i class="far fa-share-alt"></i>
+                      </button>
+                    </div>
+                    <div class="team-social">
+                      <a href="#"><i class="fab fa-facebook-f"></i></a>
+                      <a href="#"><i class="fab fa-x-twitter"></i></a>
+                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="#"><i class="fab fa-youtube"></i></a>
+                    </div>
+                  </div>
+                </div>
+                <div class="team-content">
+                  <h4><a href="driver-single.html">Beverly Dyer</a></h4>
+                  <span>Support Engineer</span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <!-- team-area end -->
