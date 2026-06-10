@@ -6,7 +6,7 @@
 <title>@yield('title', 'Alberta')</title>
  <!-- favicon -->
     <link rel="icon" type="image/x-icon" href="assets/img/logo/favicon-96x96.png" />
-
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- css -->
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/all-fontawesome.min.css" />
@@ -19,14 +19,14 @@
 
 <body>
 
- <main class="main">
+
   
 @include('components.navbar')
 @yield('content')
 
 @include('components.footer')
 
-  </main><!-- End Page Wrapper -->
+
 
    <!-- scroll-top -->
     <a href="#" id="scroll-top"><i class="far fa-arrow-up"></i></a>
